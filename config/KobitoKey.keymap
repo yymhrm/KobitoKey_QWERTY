@@ -41,7 +41,7 @@
 &mt LG(LA(LSHFT)) Q     &mt LG(LEFT_ALT) L  &mt LG(LEFT_SHIFT) U  &kp COMMA  &kp PERIOD   &kp F      &kp W          &kp R    &kp Y      &kp P
 &kp E                   &kp I               &kp A                 &kp O      &kp TAB      &kp K      &kp T          &kp N    &kp S      &kp H
 &mt LEFT_COMMAND MINUS  &kp Z               &kp X                 &kp C      &kp V        &kp G      &kp D          &kp M    &kp J      &kp B
-&kp LSHFT               &kp LALT            &kp LCMD              &kp SPACE  &lt 1 ENTER  &kp ENTER  &kp BACKSPACE  &kp ESC  &kp RSHFT  &mt LALT SLASH
+&kp LSHFT               &kp LALT            &kp LCMD              &kp A      &lt 1 ENTER  &kp ENTER  &kp BACKSPACE  &kp ESC  &kp RSHFT  &mt LALT SLASH
             >;
         };
 
