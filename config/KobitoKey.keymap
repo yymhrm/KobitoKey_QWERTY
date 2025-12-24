@@ -48,10 +48,10 @@
         layer1 {
             label = "NUMBER";
             bindings = <
-&kp PLUS      &kp N7  &kp N8  &kp N9     &kp QUESTION    &kp LANGUAGE_1  &trans         &kp UP    &trans     &trans
-&kp MINUS     &kp N4  &kp N5  &kp N6     &kp TAB         &kp LANGUAGE_2  &kp LEFT       &kp DOWN  &kp RIGHT  &trans
-&kp ASTERISK  &kp N1  &kp N2  &kp N3     &kp UNDERSCORE  &kp ASTRK       &kp SLASH      &kp LBKT  &kp RBKT   &trans
-&kp SLASH     &kp N0  &trans  &kp ENTER  &trans          &kp ENTER       &kp BACKSPACE  &trans    &trans     &trans
+&kp PLUS      &kp N7  &kp N8  &kp N9     &kp QUESTION    &kp LANGUAGE_1  &kp LANG2      &trans    &trans    &trans
+&kp MINUS     &kp N4  &kp N5  &kp N6     &kp TAB         &kp LANGUAGE_2  &kp LANG1      &trans    &trans    &trans
+&kp ASTERISK  &kp N1  &kp N2  &kp N3     &kp UNDERSCORE  &trans          &trans         &kp LBKT  &kp RBKT  &trans
+&kp SLASH     &kp N0  &trans  &kp ENTER  &trans          &kp ENTER       &kp BACKSPACE  &trans    &trans    &trans
             >;
         };
 
