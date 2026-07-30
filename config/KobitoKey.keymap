@@ -49,7 +49,7 @@
             label = "NUMBER";
             bindings = <
 &kp PLUS      &kp N7  &kp N8  &kp N9  &kp QUESTION  &kp LS(NUMBER_1)  &kp LANG2      &kp CAPSLOCK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
-&kp MINUS     &kp N4  &kp N5  &kp N6  &kp TAB       &kp AT_SIGN       &kp C_AC_BACK  &kp UP        &kp C_AC_FORWARD      &kp COLON
+&kp MINUS     &kp N4  &kp N5  &kp N6  &kp TAB       &kp AT_SIGN       &kp LBKT       &kp UP        &kp RBKT              &kp COLON
 &kp ASTERISK  &kp N1  &kp N2  &kp N3  &kp PERIOD    &kp UNDERSCORE    &kp LEFT       &kp DOWN      &kp RIGHT             &trans
 &kp SLASH     &kp N0  &trans  &trans  &trans        &kp ENTER         &kp BACKSPACE  &kp KP_EQUAL  &trans                &trans
             >;
