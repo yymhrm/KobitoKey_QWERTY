@@ -39,7 +39,7 @@
             #binding-cells = <0>;
             bindings =
                 <&macro_press>,
-                <&kp LEFT_GUI &kp LBKT>,
+                <&kp LEFT_COMMAND &kp LBKT>,
                 <&macro_release>;
 
             label = "BACK";
@@ -50,7 +50,7 @@
             #binding-cells = <0>;
             bindings =
                 <&macro_press>,
-                <&kp LEFT_GUI &kp RBKT>,
+                <&kp LEFT_COMMAND &kp RBKT>,
                 <&macro_release>;
 
             label = "FOWARD";
